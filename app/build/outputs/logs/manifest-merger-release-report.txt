@@ -1,0 +1,279 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\824e1167e76ad185ac29bb14a00125f7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\04e550ca564386e8bb14e6a541ef5340\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.1.1.aar\323ab4f29d18ce06088e25ad033cb168\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\e759222c8c85a89870a4fc3c6b3a73c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\ccd9a26439666dbf01e9129e16770337\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.1.aar\04ea8df8e37ed4203b1dc6e4c55f4049\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.0.4.aar\6cf4b91a148b20b62a567bc172579104\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\78bdea2e06e4f2e2d850de1245b07d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c27f098b1d8dec7d7ad8ab7b1b8fd678\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d36dc9f73e670a135c8a71354bdabf8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\b4d09beb17a4b0586be91543e7cc2a87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\26e0508a278619d967857c237103ffa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5b4a36878a99b55d49dd6a5dd0901426\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\689d57a1c55d5331551653e5aa1df347\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\9aaccc63156fa1c4e939d4283b24866f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\5ee54bc086d3789de2903542f1cd7723\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\7f866cdad8e12cca8f0f3fca6fe3c71e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0573082f8e398dabad573807acf5e2c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4245d2e8e609d0f48788844d13c4dc9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\e1906041be61ef07877e8cdf356ba6d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\3a2c48304b37f9ea0f33cfe92c566268\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\835035d7d24fa275a4dc92733374444a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\3ddf6faa68810dcfcd0ccdd89473e8c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\ea139ee03a5adac6814791bfe04d0387\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\de749b4b2382c34e415e474bf5c6a6bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2d6ffc14ba6775d952e0a3e5b71800a8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\8dfc9ea07c5d616cae58d8c5ae324c6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\8f508322d645a3e71d0dcc80143f1e03\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\2d3f90c77a85a5a9b62f1bee3e86861c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\62096c1bca13ec2758f23685f9a117f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9a0924299282d66bf4bb810c1956d01f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e137f02d1608c71052267a3f348cf84d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3172a80818627adb6ca07a9587680cc6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\605d3d7a42c93eafcda72bd409b3ed99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\dc36794cf8cb4ff33ddeb3f9556706e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e3ceb2963f074500bd8ae593846433a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c6559c56a8e8dc3e0bff4fc44c99a19c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fd2be5cc8d39977704a5f0645d6b5509\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.1.aar\f6eb999fc74bec8c2526a781e56f34e9\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:6:1-62
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:6:18-60
+application
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:7:5-35:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\824e1167e76ad185ac29bb14a00125f7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\824e1167e76ad185ac29bb14a00125f7\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\04e550ca564386e8bb14e6a541ef5340\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\04e550ca564386e8bb14e6a541ef5340\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\ccd9a26439666dbf01e9129e16770337\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\ccd9a26439666dbf01e9129e16770337\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.1.aar\04ea8df8e37ed4203b1dc6e4c55f4049\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.1.aar\04ea8df8e37ed4203b1dc6e4c55f4049\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.0.4.aar\6cf4b91a148b20b62a567bc172579104\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.0.4.aar\6cf4b91a148b20b62a567bc172579104\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2d6ffc14ba6775d952e0a3e5b71800a8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2d6ffc14ba6775d952e0a3e5b71800a8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\8f508322d645a3e71d0dcc80143f1e03\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\8f508322d645a3e71d0dcc80143f1e03\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.1.aar\f6eb999fc74bec8c2526a781e56f34e9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.1.aar\f6eb999fc74bec8c2526a781e56f34e9\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2d6ffc14ba6775d952e0a3e5b71800a8\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:13:9-40
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:16:9-18:69
+	android:value
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:17:13-69
+activity#com.thefourhourworkweek.SplashScreen
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.thefourhourworkweek.MyActivity
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:theme
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:23:13-63
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:22:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.thefourhourworkweek.MainActivity
+ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:31:9-49
+	android:name
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml:31:19-47
+uses-sdk
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\824e1167e76ad185ac29bb14a00125f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\824e1167e76ad185ac29bb14a00125f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\04e550ca564386e8bb14e6a541ef5340\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\04e550ca564386e8bb14e6a541ef5340\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.1.1.aar\323ab4f29d18ce06088e25ad033cb168\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.1.1.aar\323ab4f29d18ce06088e25ad033cb168\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\e759222c8c85a89870a4fc3c6b3a73c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\e759222c8c85a89870a4fc3c6b3a73c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\ccd9a26439666dbf01e9129e16770337\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\ccd9a26439666dbf01e9129e16770337\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.1.aar\04ea8df8e37ed4203b1dc6e4c55f4049\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.1.1.aar\04ea8df8e37ed4203b1dc6e4c55f4049\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.0.4.aar\6cf4b91a148b20b62a567bc172579104\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.0.4.aar\6cf4b91a148b20b62a567bc172579104\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\78bdea2e06e4f2e2d850de1245b07d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\78bdea2e06e4f2e2d850de1245b07d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c27f098b1d8dec7d7ad8ab7b1b8fd678\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c27f098b1d8dec7d7ad8ab7b1b8fd678\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d36dc9f73e670a135c8a71354bdabf8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d36dc9f73e670a135c8a71354bdabf8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\b4d09beb17a4b0586be91543e7cc2a87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\b4d09beb17a4b0586be91543e7cc2a87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\26e0508a278619d967857c237103ffa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\26e0508a278619d967857c237103ffa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5b4a36878a99b55d49dd6a5dd0901426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5b4a36878a99b55d49dd6a5dd0901426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\689d57a1c55d5331551653e5aa1df347\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\689d57a1c55d5331551653e5aa1df347\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\9aaccc63156fa1c4e939d4283b24866f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\9aaccc63156fa1c4e939d4283b24866f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\5ee54bc086d3789de2903542f1cd7723\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\5ee54bc086d3789de2903542f1cd7723\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\7f866cdad8e12cca8f0f3fca6fe3c71e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\7f866cdad8e12cca8f0f3fca6fe3c71e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0573082f8e398dabad573807acf5e2c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0573082f8e398dabad573807acf5e2c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4245d2e8e609d0f48788844d13c4dc9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4245d2e8e609d0f48788844d13c4dc9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\e1906041be61ef07877e8cdf356ba6d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\e1906041be61ef07877e8cdf356ba6d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\3a2c48304b37f9ea0f33cfe92c566268\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\3a2c48304b37f9ea0f33cfe92c566268\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\835035d7d24fa275a4dc92733374444a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\835035d7d24fa275a4dc92733374444a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\3ddf6faa68810dcfcd0ccdd89473e8c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\3ddf6faa68810dcfcd0ccdd89473e8c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\ea139ee03a5adac6814791bfe04d0387\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\ea139ee03a5adac6814791bfe04d0387\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\de749b4b2382c34e415e474bf5c6a6bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\de749b4b2382c34e415e474bf5c6a6bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2d6ffc14ba6775d952e0a3e5b71800a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2d6ffc14ba6775d952e0a3e5b71800a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\8dfc9ea07c5d616cae58d8c5ae324c6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\8dfc9ea07c5d616cae58d8c5ae324c6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\8f508322d645a3e71d0dcc80143f1e03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\8f508322d645a3e71d0dcc80143f1e03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\2d3f90c77a85a5a9b62f1bee3e86861c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\2d3f90c77a85a5a9b62f1bee3e86861c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\62096c1bca13ec2758f23685f9a117f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\62096c1bca13ec2758f23685f9a117f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9a0924299282d66bf4bb810c1956d01f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9a0924299282d66bf4bb810c1956d01f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e137f02d1608c71052267a3f348cf84d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e137f02d1608c71052267a3f348cf84d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3172a80818627adb6ca07a9587680cc6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3172a80818627adb6ca07a9587680cc6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\605d3d7a42c93eafcda72bd409b3ed99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\605d3d7a42c93eafcda72bd409b3ed99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\dc36794cf8cb4ff33ddeb3f9556706e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\dc36794cf8cb4ff33ddeb3f9556706e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e3ceb2963f074500bd8ae593846433a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e3ceb2963f074500bd8ae593846433a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c6559c56a8e8dc3e0bff4fc44c99a19c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c6559c56a8e8dc3e0bff4fc44c99a19c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fd2be5cc8d39977704a5f0645d6b5509\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fd2be5cc8d39977704a5f0645d6b5509\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.1.aar\f6eb999fc74bec8c2526a781e56f34e9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.1.1.aar\f6eb999fc74bec8c2526a781e56f34e9\AndroidManifest.xml:5:5-44
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.1.1.aar\323ab4f29d18ce06088e25ad033cb168\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\The4hourworkweek\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.1.1.aar\3ef3d29c45688efd0ade516ec6b91e84\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.0.3.aar\47c3b1a1494851376cd8f7580e5f2d72\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Debashish\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\859c89f43f8e31e9079e76744f82b73b\AndroidManifest.xml:24:13-58

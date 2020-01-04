@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Oct 24 00:58:47 IST 2019
+1.base=E\:\\Android\\The4hourworkweek\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=fourHourWorkWeek.html
+0.set=ASSET
+0.base=E\:\\Android\\The4hourworkweek\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=classes.dex
